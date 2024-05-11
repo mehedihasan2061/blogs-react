@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "img": "https://i.ibb.co/Nyx77ZQ/1704893373298.jpg",
+    "title": "Exploring the Wilderness",
+    "hashtag": "#nature #adventure",
+    "profile_img": "https://i.ibb.co/7nBMn0N/1713580899251.jpg",
+    "author_name": "Mehedi Hasan",
+    "published_date": "2024-05-10",
+    "reading_time": 10
+  },
+  {
+    "id": 2,
+    "img": "https://i.ibb.co/zVvFv7B/man-cook-holds-pan-with-vegetables-flying-air-613910-10109.jpg",
+    "title": "The Art of Cooking",
+    "hashtag": "#food #recipes",
+    "profile_img": "https://i.ibb.co/Nyx77ZQ/1704893373298.jpg",
+    "author_name": "Hasan Mehedi",
+    "published_date": "2024-05-09",
+    "reading_time": 8
+  },
+  {
+    "id": 3,
+    "img": "https://i.ibb.co/QC9MTCk/close-up-image-programer-working-his-desk-office-1098-18707.jpg",
+    "title": "Learning to Code",
+    "hashtag": "#programming #technology",
+    "profile_img": "https://i.ibb.co/TRDSx0j/1713581018671-1.jpg",
+    "author_name": "MH. Rajon",
+    "published_date": "2024-05-08",
+    "reading_time": 15
+  },
+  {
+    "id": 4,
+    "img": "https://i.ibb.co/bbTcktM/people-portrait-with-plane-flying-sky-23-2149520423.jpg",
+    "title": "Traveling Through Time",
+    "hashtag": "#history #time_travel",
+    "profile_img": "https://i.ibb.co/mGwFQjb/IMG-20220812-WA0063.jpg",
+    "author_name": "Mehedi",
+    "published_date": "2024-05-07",
+    "reading_time": 12
+  },
+  {
+    "id": 5,
+    "img": "https://i.ibb.co/VT4K5WX/side-view-specialized-photographer-working-studio-23-2150247219.jpg",
+    "title": "Mastering Photography",
+    "hashtag": "#photography #art",
+    "profile_img": "https://i.ibb.co/tcwzt4J/1691153827650-01.jpg",
+    "author_name": "MR-10",
+    "published_date": "2024-05-06",
+    "reading_time": 17
+  }
+]
